@@ -1,0 +1,8398 @@
+#section_dresses1
+{
+    height: 1000px;
+    background-color: azure;
+}
+.sec_dress1_container
+{
+    padding-top: 100px;
+}
+
+.dress_h2
+{
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 36px;
+    color:#171717;
+    font-weight: bold;
+}
+
+.dress_p
+{
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 18px;
+    color: #171717;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    font-weight: bolder;
+}
+
+.category_dress
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 8rem;
+    padding-top: 80px;
+}
+
+.category_dress_h6
+{
+    font-family: 'Tenor Sans', sans-serif;
+    font-weight: bolder;
+
+}
+
+.dress1
+{
+    cursor: pointer;
+}
+
+.dress3
+{
+    cursor: pointer;
+}
+
+.dress5
+{
+    cursor: pointer;
+}
+
+article .order
+{
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 1.2rem;
+    color: #171717;
+    background-color: transparent;
+    border: 2px solid #171717;
+    padding: 6px;
+    text-decoration: none;
+    font-weight: bolder;
+
+
+}
+
+#dress11
+{
+    height: 1050px;
+}
+
+article .order:hover
+{
+    transition: ease 1.3s;
+    color: white;
+    border: 2px solid #171717;
+    font-weight: bolder;
+    background-color: #171717;
+}
+
+.d11
+{
+    width: 620px;
+    height: 730px;
+    margin-top: 80px;
+}
+
+.dress11_container
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.dress11_right
+{
+    margin-top: 80px;
+}
+
+.category_dress_h3
+{
+    font-family: 'Tenor Sans', sans-serif;
+     color: #171717;
+     font-weight: bolder;
+}
+
+.dress11_h4
+{
+    font-family: 'Tenor Sans', sans-serif;
+    color: #171717;
+    font-weight: bolder;
+}
+
+.color_div1
+{
+    background-color:  black;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color_div2
+{
+    background-color: #264445;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+.color_div
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0rem;
+}
+
+.hide
+{
+    display: none;
+}
+
+.quantity_div
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.size
+{
+    font-size: 26px;
+}
+
+.quantity_left
+{
+    cursor: pointer;
+}
+
+.quantity_right
+{
+   margin-left: -550px;
+   cursor: pointer;
+}
+
+.quantity_btw
+{
+    margin-right: 564px;
+    margin-top: 2px;
+    font-weight: bolder;
+}
+
+.cart
+{
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 1rem;
+    color: white;   
+    background-color: #171717;
+
+}
+
+
+.chat
+{
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 1rem;
+    color: white;   
+    background-color: #171717;
+    margin-right: 300px;
+}
+
+.chat:hover
+{
+    background-color: #171717;
+}
+
+
+.product
+{
+    
+    font-family: 'Tenor Sans', sans-serif;
+    color: #171717;
+    font-weight: bold;
+}
+
+.accordion-body
+{
+    text-decoration: none;
+}
+
+.probtn
+{
+    font-family: 'Tenor Sans', sans-serif;
+    color: #171717;
+}
+
+
+.color3_div1
+{
+    background-color:  #382C2C;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color3_div2
+{
+    background-color: #D79E69;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+.color4_div1
+{
+    background-color:  #9c0505;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color4_div2
+{
+    background-color: #213604;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+
+.color2_div1
+{
+    background-color:  rgb(4, 20, 70);
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color2_div2
+{
+    background-color: #264445;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+    display: none;
+}
+
+
+.color5_div1
+{
+    background-color:  #232323;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color5_div2
+{
+    background-color: #007ba7;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+
+
+.color6_div1
+{
+    background-color:  #be0032
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color6_div2
+{
+    background-color: #F0CA28;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+.color7_div1
+{
+    background-color:  #171717
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color7_div2
+{
+    background-color: #FFFDD0;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.color8_div1
+{
+    background-color:  #171717
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color8_div2
+{
+    background-color: #05274A;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.color9_div1
+{
+    background-color:  	#8B4513;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color9_div2
+{
+    background-color: #fe9995;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+.color10_div1
+{
+    background-color:  	#171717;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color10_div2
+{
+    background-color: grey;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+
+.color11_div1
+{
+    background-color:  	#171717;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color11_div2
+{
+    background-color: #05274A;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+.color12_div1
+{
+    background-color:  	#171717;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color12_div2
+{
+    background-color: grey;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+.color13_div1
+{
+    background-color:  	#05274A;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color13_div2
+{
+    background-color: rgb(133, 32, 32);
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+
+.color14_div1
+{
+    background-color:  	#171717;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color14_div2
+{
+    background-color: grey;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+
+.color15_div1
+{
+    background-color:  	#171717;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color15_div2
+{
+    background-color: #6F4E37;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+.color16_div1
+{
+    background-color:  	 #847640;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color16_div2
+{
+    background-color:  #171717;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+
+.color17_div1
+{
+    background-color:  	 #2e4070;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.color17_div2
+{
+    background-color:  #486bc7;
+    width: 80px;
+    height: 80px;
+    margin-left: -225px;
+    cursor: pointer;
+}
+
+.color18_div1
+{
+    background-color: #171717;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+
+
+.color19_div1
+{
+    background-color: #171717;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+
+.color19_div2
+{
+    background-color: #007ba7;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    margin-left: -225px;
+
+}
+
+
+
+.color20_div1
+{
+    background-color:grey;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+
+.color20_div2
+{
+    background-color: rgb(206, 206, 110);
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    margin-left: -225px;
+
+}
+
+
+
+
+.color21_div1
+{
+    background-color:#171717;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+
+.color21_div2
+{
+    background-color: antiquewhite;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    margin-left: -225px;
+    border: 1px solid black;
+
+}
+
+
+.color22_div1
+{
+    background-color:#171717;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+
+.color22_div2
+{
+    background-color: #8B4513
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    margin-left: -225px;
+    border: 1px solid black;
+}
+
+
+.color23_div1
+{
+    background-color:grey;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+
+.color23_div2
+{
+    background-color: #bc987e
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    margin-left: -225px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color24_div1
+{
+    background-color:#282C38;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+
+.color24_div2
+{
+    background-color: gray
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    margin-left: -225px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color25_div1
+{
+    background-color:#87CEEB;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+
+.color25_div2
+{
+    background-color: grey
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    margin-left: -225px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color26_div1
+{
+    background-color:#79a5b6;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+
+.color26_div2
+{
+    background-color: grey
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    margin-left: -225px;
+    border: 1px solid black;
+
+}
+
+
+
+.color27_div1
+{
+    background-color:#282C38;
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+
+.color27_div2
+{
+    background-color:#171717
+    ;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    margin-left: -225px;
+    border: 1px solid black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (width:375px) {
+#section_dresses1
+{
+    height: 2200px;
+}
+.sec_dress1_container
+{
+    padding-top: 70px;
+}
+
+.dress_h2
+{
+    font-size: 21px;
+}
+
+.dress_p
+{
+    font-size: 14px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.category_dress
+{
+    grid-template-columns: 1fr;
+    gap: 4rem;
+    padding-top: 60px;
+}
+
+.category_dress_h5
+{
+    margin-left: 0.3rem;
+
+}
+
+.category_dress_h6
+{
+    margin-left: 0.3rem;
+}
+
+.dress1
+{
+    cursor: pointer;
+    margin-left: 0.3rem;
+}
+
+.dress3
+{
+    cursor: pointer;
+    margin-left: 0.3rem;
+}
+
+.dress5
+{
+    cursor: pointer;
+    margin-left: 0.3rem;
+}
+
+article .order
+{
+    margin-left: 0.3rem;
+}
+
+#dress11
+{
+    height: 1400px;
+}
+
+article .order:hover
+{
+    transition: ease 1.3s;
+    color: white;
+    border: 2px solid #171717;
+    font-weight: bolder;
+    background-color: #171717;
+}
+
+
+.d11
+{
+    width: 350px;
+    height: 450px;
+    margin-top: 70px;
+}
+
+.dress11_container
+{
+    grid-template-columns: 1fr;
+}
+
+.dress11_right
+{
+    margin-top: 30px;
+    width: 350px;
+}
+
+.dress11_h4
+{
+    margin-top: 10px;
+    width: 200px;
+}
+
+.category_dress_h3
+{
+    width: 350px;
+}
+
+.color_div1
+{
+    width: 60px;
+    height: 60px;
+}
+
+.color_div2
+{
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;    
+}
+
+body
+{
+    width: 375px;
+}
+.btn-grad 
+  {
+    margin: 10px;
+    padding: 12px 35px;
+
+  }
+
+.color_div
+{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    width: 200px;
+}
+
+.hide
+{
+    display: none;
+}
+
+.quantity_div
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.size
+{
+    font-size: 26px;
+}
+
+.quantity_left
+{
+    cursor: pointer;
+}
+
+.quantity_right
+{
+   margin-left: -550px;
+   cursor: pointer;
+   width: 300px;
+}
+
+.quantity_btw
+{
+    margin-top: 2px;
+    font-weight: bolder;
+    margin-left: 14px;
+}
+
+
+
+.ww
+{
+    width: 380px;
+    margin-left: -19px;
+}
+.chn
+{
+    margin-left: 0rem;
+}
+
+.but1
+{
+    margin-left: 16px;
+}
+
+
+
+.chat
+{
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 1rem;
+    color: white;   
+    background-color: #171717;
+    margin-right: 300px;
+}
+
+.chat:hover
+{
+    background-color: #171717;
+}
+
+
+.product
+{
+    
+    font-family: 'Tenor Sans', sans-serif;
+    color: #171717;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.accordion-body
+{
+    text-decoration: none;
+}
+
+.probtn
+{
+    font-family: 'Tenor Sans', sans-serif;
+    color: #171717;
+    font-weight: bolder;
+}
+
+
+.color3_div1
+{
+    background-color:  #382C2C;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color3_div2
+{
+    background-color: #D79E69;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+.color4_div1
+{
+    background-color:  #9c0505;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color4_div2
+{
+    background-color: #213604;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+
+.color2_div1
+{
+    background-color:  rgb(4, 20, 70);
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color2_div2
+{
+    background-color: #264445;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+    display: none;
+}
+
+
+.color5_div1
+{
+    background-color:  #232323;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color5_div2
+{
+    background-color: #007ba7;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+
+
+.color6_div1
+{
+    background-color:  #be0032
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color6_div2
+{
+    background-color: #F0CA28;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+
+
+
+.color7_div1
+{
+    background-color:  #171717
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color7_div2
+{
+    background-color: #FFFDD0;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.color8_div1
+{
+    background-color:  #171717
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color8_div2
+{
+    background-color: #05274A;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.color9_div1
+{
+    background-color:  	#8B4513;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color9_div2
+{
+    background-color: #fe9995;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+.color10_div1
+{
+    background-color:  	#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color10_div2
+{
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+
+.color11_div1
+{
+    background-color:  	#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color11_div2
+{
+    background-color: #05274A;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+.color12_div1
+{
+    background-color:  	#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color12_div2
+{
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+.color13_div1
+{
+    background-color:  	#05274A;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color13_div2
+{
+    background-color: rgb(133, 32, 32);
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+
+.color14_div1
+{
+    background-color:  	#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color14_div2
+{
+    background-color: grey;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+
+.color15_div1
+{
+    background-color:  	#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color15_div2
+{
+    background-color: #6F4E37;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+.color16_div1
+{
+    background-color:  	 #847640;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color16_div2
+{
+    background-color:  #171717;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+
+.color17_div1
+{
+    background-color:  	 #2e4070;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.color17_div2
+{
+    background-color:  #486bc7;
+    width: 60px;
+    height: 60px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+.color18_div1
+{
+    background-color: #171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+
+.color19_div1
+{
+    background-color: #171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color19_div2
+{
+    background-color: #007ba7;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+
+}
+
+
+.color20_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color20_div2
+{
+    background-color: rgb(206, 206, 110);
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+
+}
+
+
+
+
+.color21_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color21_div2
+{
+    background-color: antiquewhite;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+.color22_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color22_div2
+{
+    background-color: #8B4513
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+}
+
+
+.color23_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color23_div2
+{
+    background-color: #bc987e
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color24_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color24_div2
+{
+    background-color: gray
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color25_div1
+{
+    background-color:#87CEEB;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color25_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color26_div1
+{
+    background-color:#79a5b6;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color26_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+.color27_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color27_div2
+{
+    background-color:#171717
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer
+{
+    height: 1300px;
+}
+
+.footer_container
+{
+    grid-template-columns: 1fr;
+    padding-top: 70px;
+    text-align: center;
+}
+
+.footer2_h2
+{
+    font-size: 24px;
+}
+
+.footer1 li a
+{
+    font-size: 14px;
+    color: azure;
+    font-family: 'Tenor Sans', sans-serif;
+
+}
+
+.footer2
+{
+    margin-bottom: 70px;
+    padding-top: 70px;
+}
+.phimg
+{
+    margin-top: 0px;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.emimg
+{
+    margin-bottom: 15px;
+    color: white;
+}
+
+.hmimg
+{
+    margin-bottom: 15px;
+    color: white;
+}
+
+.footer2_h41
+{
+    font-size: 14px;
+    color: azure;
+    margin-left:0px;
+    margin-top: 0px;
+}
+
+.footer3_h42
+{
+    font-size: 14px;
+    color: azure;
+    margin-left: 0px;
+}
+.footer3_h43
+{
+    font-size: 14px;
+    margin-top: 0px;
+    color: azure;
+    margin-left: 0px;
+}
+
+.footer3_h44
+{
+    font-size: 14px;
+    margin-top: 0px;
+    margin-right: 0rem;
+    color: azure;
+    margin-left: 0px;
+}
+
+.footer3
+{
+    width: auto;
+}
+.footer3p
+{
+    font-size: 14px;
+    margin-right: 0rem;
+}
+.ic
+{
+  margin-left: 0px;  
+}
+
+.subs input
+{
+    width: 300px;
+}
+
+.subs
+{
+    margin-left: 1.5rem;
+}
+
+.fb
+{
+    color: white;
+    font-size: 20px;
+}
+
+.you
+{
+    color: red;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.int
+{
+    font-size: 20px;
+    margin-left: 10px;
+    color: white;
+}
+
+.tw
+{
+    color: #1DA1F2;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+
+.footer3 a
+{
+    text-decoration: none;
+}
+
+.btn3
+{
+    margin-left: 4rem;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.hu
+{
+    margin-left: -3.5rem;
+}
+.end_div
+{
+    height: 80px;
+}
+
+.end
+{
+    padding-top: 15px;
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 18px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (width:360px) {
+
+    header
+    {
+        width: 360px;
+    }
+    #section_dresses1
+    {
+        height: 2000px;
+        width: 360px;
+    }
+    .sec_dress1_container
+    {
+        padding-top: 70px;
+    }
+    
+    .dress_h2
+    {
+        font-size: 20px;
+    }
+    
+    .dress_p
+    {
+        font-size: 14px;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    
+    .category_dress
+    {
+        grid-template-columns: 1fr;
+        gap: 4rem;
+        padding-top: 60px;
+    }
+    
+    .category_dress_h5
+    {
+        margin-left: 0.33rem;
+        font-size: 20px;
+        
+    
+    }
+    
+    .category_dress_h6
+    {
+        margin-left: 0.33rem;
+        font-size: 19px;
+    }
+    
+    .dress1
+    {
+        cursor: pointer;
+        margin-left: 0.33rem;
+    }
+    
+    .dress3
+    {
+        cursor: pointer;
+        margin-left: 0.33rem;
+        width: 325px;
+        height: 380px;
+    }
+    
+    .dress5
+    {
+        cursor: pointer;
+        margin-left: 0.33rem;
+        width: 325px;
+        height: 380px;
+    }
+    
+    article .order
+    {
+        margin-left: 0.33rem;
+        font-size: 18px;
+    }
+    
+    #dress11
+    {
+        height: 1300px;
+    }
+    
+    article .order:hover
+    {
+        transition: ease 1.3s;
+        color: white;
+        border: 2px solid #171717;
+        font-weight: bolder;
+        background-color: #171717;
+    }
+    .dress1
+    {
+        width: 325px;
+        height: 380px;
+    }
+    
+    
+    .d11
+    {
+        width: 336px;
+        height: 400px;
+        margin-top: 70px;
+    }
+    
+    .dress11_container
+    {
+        grid-template-columns: 1fr;
+    }
+    
+    .dress11_right
+    {
+        margin-top: 30px;
+        width: 335px;
+    }
+
+    .chn
+    {
+        margin-left: 0rem;
+    }
+    
+    .dress11_h4
+    {
+        margin-top: -10px;
+        width: 200px;
+    }
+    
+    .category_dress_h3
+    {
+        width: 335px;
+        font-size: 20px;
+    }
+    
+    .color_div1
+    {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .color_div2
+    {
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;    
+    }
+    
+    body
+    {
+        width: 360px;
+    }
+    .btn-grad 
+      {
+        margin: 10px;
+        padding: 12px 35px;
+    
+      }
+    
+    .color_div
+    {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        width: 200px;
+    }
+    
+    .hide
+    {
+        display: none;
+    }
+    
+    .quantity_div
+    {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    
+    .size
+    {
+        font-size: 24px;
+    }
+    
+    .quantity_left
+    {
+        cursor: pointer;
+    }
+    
+    .quantity_right
+    {
+       margin-left: -550px;
+       cursor: pointer;
+       width: 200px;
+    }
+    
+    .quantity_btw
+    {
+        margin-top: 2px;
+        font-weight: bolder;
+        margin-left: 14px;
+    }
+
+    .count
+    {
+        margin-top: -1px;
+    }
+    
+    .but1
+    {
+        margin-left: 5px;
+    }
+    
+    .ww
+    {
+        width: 365px;
+        margin-left: -19px;
+    }
+    
+    
+    .product
+    {
+        
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    
+    .accordion-body
+    {
+        text-decoration: none;
+    }
+    
+    .probtn
+    {
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bolder;
+    }
+    
+    
+    .color3_div1
+    {
+        background-color:  #382C2C;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color3_div2
+    {
+        background-color: #D79E69;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color4_div1
+    {
+        background-color:  #9c0505;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color4_div2
+    {
+        background-color: #213604;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color2_div1
+    {
+        background-color:  rgb(4, 20, 70);
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color2_div2
+    {
+        background-color: #264445;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        display: none;
+    }
+    
+    
+    .color5_div1
+    {
+        background-color:  #232323;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color5_div2
+    {
+        background-color: #007ba7;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color6_div1
+    {
+        background-color:  #be0032
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color6_div2
+    {
+        background-color: #F0CA28;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    
+    
+    .color7_div1
+    {
+        background-color:  #171717
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color7_div2
+    {
+        background-color: #FFFDD0;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color8_div1
+    {
+        background-color:  #171717
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color8_div2
+    {
+        background-color: #05274A;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color9_div1
+    {
+        background-color:  	#8B4513;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color9_div2
+    {
+        background-color: #fe9995;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color10_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color10_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color11_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color11_div2
+    {
+        background-color: #05274A;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color12_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color12_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color13_div1
+    {
+        background-color:  	#05274A;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color13_div2
+    {
+        background-color: rgb(133, 32, 32);
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color14_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color14_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color15_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color15_div2
+    {
+        background-color: #6F4E37;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color16_div1
+    {
+        background-color:  	 #847640;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color16_div2
+    {
+        background-color:  #171717;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color17_div1
+    {
+        background-color:  	 #2e4070;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color17_div2
+    {
+        background-color:  #486bc7;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color18_div1
+    {
+        background-color: #171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color19_div1
+    {
+        background-color: #171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    
+    .color19_div2
+    {
+        background-color: #007ba7;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+        margin-left: 0px;
+    
+    }
+
+    
+.color20_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color20_div2
+{
+    background-color: rgb(206, 206, 110);
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+
+}
+
+
+
+
+.color21_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color21_div2
+{
+    background-color: antiquewhite;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+.color22_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color22_div2
+{
+    background-color: #8B4513
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+}
+
+
+.color23_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color23_div2
+{
+    background-color: #bc987e
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color24_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color24_div2
+{
+    background-color: gray
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color25_div1
+{
+    background-color:#87CEEB;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color25_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color26_div1
+{
+    background-color:#79a5b6;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color26_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+.color27_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color27_div2
+{
+    background-color:#171717
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    body
+    {
+        width: 360px;
+    }
+    
+    footer
+    {
+        height: 1300px;
+        width: 360px;
+
+    }
+    
+    .footer_container
+    {
+        grid-template-columns: 1fr;
+        padding-top: 70px;
+        text-align: center;
+    }
+    
+    .footer2_h2
+    {
+        font-size: 24px;
+    }
+    
+    .footer1 li a
+    {
+        font-size: 14px;
+        color: azure;
+        font-family: 'Tenor Sans', sans-serif;
+    
+    }
+    
+    .footer2
+    {
+        margin-bottom: 70px;
+        padding-top: 70px;
+    }
+    .phimg
+    {
+        margin-top: 0px;
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .emimg
+    {
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .hmimg
+    {
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .footer2_h41
+    {
+        font-size: 14px;
+        color: azure;
+        margin-left:0px;
+        margin-top: 0px;
+    }
+    
+    .footer3_h42
+    {
+        font-size: 14px;
+        color: azure;
+        margin-left: 0px;
+    }
+    .footer3_h43
+    {
+        font-size: 14px;
+        margin-top: 0px;
+        color: azure;
+        margin-left: 0px;
+    }
+    
+    .footer3_h44
+    {
+        font-size: 14px;
+        margin-top: 0px;
+        margin-right: 0rem;
+        color: azure;
+        margin-left: 0px;
+    }
+    
+    .footer3
+    {
+        width: auto;
+    }
+    .footer3p
+    {
+        font-size: 14px;
+        margin-right: 0rem;
+    }
+    .ic
+    {
+      margin-left: 0px;  
+    }
+    
+    .subs input
+    {
+        width: 300px;
+    }
+    
+    .subs
+    {
+        margin-left: 1.1rem;
+    }
+    
+    .fb
+    {
+        color: white;
+        font-size: 20px;
+    }
+    
+    .you
+    {
+        color: red;
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    
+    .int
+    {
+        font-size: 20px;
+        margin-left: 10px;
+        color: white;
+    }
+    
+    .tw
+    {
+        color: #1DA1F2;
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    
+    
+    .footer3 a
+    {
+        text-decoration: none;
+    }
+    
+    .btn3
+    {
+        margin-left: 4.2rem;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    
+    .hu
+    {
+        margin-left: -3.2rem;
+    }
+    .end_div
+    {
+        height: 80px;
+    }
+    
+    .end
+    {
+        padding-top: 15px;
+        font-family: 'Lexend Zetta', sans-serif;
+        font-size: 18px;
+    }
+}    
+
+
+@media (width:600px) {
+    
+    #section_dresses1
+    {
+        height: 2500px;
+    }
+    
+    .dress_h2
+    {
+        font-size: 32px;
+    }
+    
+    .dress_p
+    {
+        font-size: 18px;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    
+    .category_dress
+    {
+        grid-template-columns: 1fr;
+        gap: 4rem;
+        padding-top: 60px;
+    }
+    
+    .category_dress_h5
+    {
+        text-align: center;
+        font-size: 26px;
+    
+    }
+    
+    .category_dress_h6
+    {
+        text-align: center;
+        font-size: 24px;
+        
+    }
+    
+    .dress1
+    {
+        cursor: pointer;
+        margin-left: 3.6rem;
+        width: 400px;
+        
+    }
+    
+    .dress3
+    {
+        cursor: pointer;
+        margin-left: 3.6rem;
+        width: 400px;
+
+    }
+    
+    .dress5
+    {
+        cursor: pointer;
+        margin-left: 3.6rem;
+        width: 400px;
+
+    }
+    
+    article .order
+    {
+        margin-left: 11rem;
+        font-size: 21px;
+    }
+    
+    #dress11
+    {
+        height: 1550px;
+    }
+    
+    article .order:hover
+    {
+        transition: ease 1.3s;
+        color: white;
+        border: 2px solid #171717;
+        font-weight: bolder;
+        background-color: #171717;
+    }
+    
+    
+    .d11
+    {
+        width: 400px;
+        height: 480px;
+        margin-top: 70px;
+        margin-left: 3.6rem;
+    }
+    
+    .dress11_container
+    {
+        grid-template-columns: 1fr;
+    }
+    
+    .dress11_right
+    {
+        margin-top: 30px;
+        width: 500px;
+        text-align: center;
+    }
+
+    .category_dress_h3
+    {
+        font-size: 26px;
+        text-align: center;
+        width: 500px !important
+    }
+
+     .exc
+    {
+        font-size: 20px;
+    }
+    
+    .dress11_h4
+    {
+        margin-top: 10px;
+        width: 500px;
+        font-size: 25px;
+    }
+    
+    .color_div1
+    {
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color_div2
+    {
+        width: 80px;
+        height: 80px;
+        margin-left:13.3rem;    
+    }
+    
+    body
+    {
+        width: 600px;
+    }
+    .btn-grad 
+      {
+        margin: 10px;
+        padding: 12px 35px;
+    
+      }
+    
+    .color_div
+    {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        width: 200px;
+    }
+    
+    .hide
+    {
+        display: none;
+    }
+    
+    .quantity_div
+    {
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 200px;
+    }
+    
+    .size
+    {
+        font-size: 29px;
+    }
+    
+    .quantity_left
+    {
+        cursor: pointer;
+        width: 20px;
+        margin-left: 18rem;
+    }
+    
+    .quantity_right
+    {
+       cursor: pointer;
+       width: 200px;
+       margin-left: 0rem;
+       margin-top: -35px;
+       margin-left: 100px;
+
+    }
+    
+    .quantity_btw
+    {
+        font-weight: bolder;
+        margin-left: 15.23rem;
+        margin-top: -30px;
+       
+    }
+    
+    
+    .count
+    {
+        font-size: 20px !important ;
+        margin-top: 2px;
+    }
+    .ww
+    {
+        width: 500px;
+        margin-left:0.5rem;
+    }
+    .chn
+    {
+        margin-left: 0rem;
+    }
+    
+    .but1
+    {
+        margin-left: 4.3rem;
+    }
+    
+    
+    
+    .chat
+    {
+        font-family: 'Tenor Sans', sans-serif;
+        font-size: 1rem;
+        color: white;   
+        background-color: #171717;
+        margin-right: 300px;
+    }
+    
+    .chat:hover
+    {
+        background-color: #171717;
+    }
+    
+    
+    .product
+    {
+        
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bold;
+        font-size: 16px;
+    }
+    
+    .accordion-body
+    {
+        text-decoration: none;
+    }
+    
+    .probtn
+    {
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bolder;
+        font-size: 20px;
+    }
+    
+    
+    .color3_div1
+    {
+        background-color:  #382C2C;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color3_div2
+    {
+        background-color: #D79E69;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    .color4_div1
+    {
+        background-color:  #9c0505;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+
+    }
+    
+    .color4_div2
+    {
+        background-color: #213604;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    
+    .color2_div1
+    {
+        background-color:  rgb(4, 20, 70);
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color2_div2
+    {
+        background-color: #264445;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+        display: none;
+    }
+    
+    
+    .color5_div1
+    {
+        background-color:  #232323;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color5_div2
+    {
+        background-color: #007ba7;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color6_div1
+    {
+        background-color:  #be0032
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color6_div2
+    {
+        background-color: #F0CA28;
+        width: 60px;
+        height: 60px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    
+    
+    
+    .color7_div1
+    {
+        background-color:  #171717
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color7_div2
+    {
+        background-color: #FFFDD0;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color8_div1
+    {
+        background-color:  #171717
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color8_div2
+    {
+        background-color: #05274A;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color9_div1
+    {
+        background-color:  	#8B4513;
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color9_div2
+    {
+        background-color: #fe9995;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    .color10_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color10_div2
+    {
+        background-color: grey;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    
+    .color11_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color11_div2
+    {
+        background-color: #05274A;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    .color12_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color12_div2
+    {
+        background-color: grey;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    .color13_div1
+    {
+        background-color:  	#05274A;
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color13_div2
+    {
+        background-color: rgb(133, 32, 32);
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    
+    .color14_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color14_div2
+    {
+        background-color: grey;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    
+    .color15_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color15_div2
+    {
+        background-color: #6F4E37;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    .color16_div1
+    {
+        background-color:  	 #847640;
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color16_div2
+    {
+        background-color:  #171717;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    
+    .color17_div1
+    {
+        background-color:  	 #2e4070;
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    .color17_div2
+    {
+        background-color:  #486bc7;
+        width: 80px;
+        height: 80px;
+        margin-left: 13.3rem;
+        cursor: pointer;
+    }
+    
+    .color18_div1
+    {
+        background-color: #171717;
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    
+    
+    .color19_div1
+    {
+        background-color: #171717;
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+        margin-top: 10px;
+    }
+    
+    
+    .color19_div2
+    {
+        background-color: #007ba7;
+        ;
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+        margin-left: 13.3rem;
+    
+    }
+  
+    footer
+    {
+        height: 1370px;
+    }
+    
+    .footer_container
+    {
+        grid-template-columns: 1fr;
+        padding-top: 70px;
+        text-align: center;
+    }
+    
+    .footer2_h2
+    {
+        font-size: 32px;
+    }
+    
+    .footer1 li a
+    {
+        font-size: 18px;
+        color: azure;
+        font-family: 'Tenor Sans', sans-serif;
+    
+    }
+    
+    .footer2
+    {
+        margin-bottom: 70px;
+        padding-top: 70px;
+    }
+    .phimg
+    {
+        margin-top: 0px;
+        margin-bottom: 15px;
+        color: white;
+        font-size: 22px;
+    }
+    
+    .emimg
+    {
+        margin-bottom: 15px;
+        color: white;
+        font-size: 22px;
+
+    }
+    
+    .hmimg
+    {
+        margin-bottom: 15px;
+        color: white;
+        font-size: 22px;
+
+    }
+    
+    .footer2_h41
+    {
+        font-size: 18px;
+        color: azure;
+        margin-left:0px;
+        margin-top: 0px;
+    }
+    
+    .footer3_h42
+    {
+        font-size: 18px;
+        color: azure;
+        margin-left: 0px;
+    }
+    .footer3_h43
+    {
+        font-size: 18px;
+        margin-top: 0px;
+        color: azure;
+        margin-left: 0px;
+    }
+    
+    .footer3_h44
+    {
+        font-size: 18px;
+        margin-top: 0px;
+        margin-right: 0rem;
+        color: azure;
+        margin-left: 0px;
+    }
+    
+    .footer3
+    {
+        width: auto;
+    }
+    .footer3p
+    {
+        font-size: 18px;
+        margin-right: 0rem;
+    }
+    .ic
+    {
+      margin-left: 0px;  
+    }
+    
+    .subs input
+    {
+        width: 350px;
+    }
+    
+    .subs
+    {
+        margin-left: 5rem;
+    }
+
+    .subs input
+    {
+        font-size: 20px;
+    }
+    
+    .fb
+    {
+        color: white;
+        font-size: 24px;
+    }
+    
+    .you
+    {
+        color: red;
+        font-size: 24px;
+        margin-left: 10px;
+    }
+    
+    .int
+    {
+        font-size: 24px;
+        margin-left: 10px;
+        color: white;
+    }
+    
+    .tw
+    {
+        color: #1DA1F2;
+        font-size: 24px;
+        margin-left: 10px;
+    }
+    
+    
+    .footer3 a
+    {
+        text-decoration: none;
+    }
+    
+    .btn3
+    {
+        margin-left: 4.9rem;
+        margin-top: 20px;
+        margin-bottom: 40px;
+        font-size: 20px;
+    }
+    
+    .hu
+    {
+        margin-left: -5.2rem;
+    }
+
+    .subs .hu
+    {
+        font-size: 18px;
+    }
+    .end_div
+    {
+        height: 80px;
+    }
+    
+    .end
+    {
+        padding-top: 15px;
+        font-family: 'Lexend Zetta', sans-serif;
+        font-size: 20px;
+    }
+
+}
+
+
+@media (max-width:320px) {
+    
+    header
+    {
+        width: 320px;
+    }
+    #section_dresses1
+    {
+        height: 1790px;
+        width: 320px;
+    }
+    .sec_dress1_container
+    {
+        padding-top: 70px;
+    }
+    
+    .dress_h2
+    {
+        font-size: 18px;
+    }
+    
+    .dress_p
+    {
+        font-size: 13px;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    
+    .category_dress
+    {
+        grid-template-columns: 1fr;
+        gap: 4rem;
+        padding-top: 60px;
+    }
+    
+    .category_dress_h5
+    {
+        margin-left: 0.33rem;
+        font-size: 19px;
+        
+    
+    }
+    
+    .category_dress_h6
+    {
+        margin-left: 0.33rem;
+        font-size: 17px;
+    }
+    
+    .dress1
+    {
+        cursor: pointer;
+        margin-left: 0.33rem;
+        width: 286px;
+        height: 310px;
+    }
+    
+    .dress3
+    {
+        cursor: pointer;
+        margin-left: 0.33rem;
+        width: 286px;
+        height: 310px;
+    }
+    
+    .dress5
+    {
+        cursor: pointer;
+        margin-left: 0.33rem;
+        width: 286px;
+        height: 310px;
+    }
+    
+    article .order
+    {
+        margin-left: 0.33rem;
+        font-size: 16px;
+    }
+    
+    #dress11
+    {
+        height: 1150px;
+    }
+    
+    article .order:hover
+    {
+        transition: ease 1.3s;
+        color: white;
+        border: 2px solid #171717;
+        font-weight: bolder;
+        background-color: #171717;
+    }
+ 
+    
+    
+    .d11
+    {
+        width: 295px;
+        height: 320px;
+        margin-top: 70px;
+    }
+    
+    .dress11_container
+    {
+        grid-template-columns: 1fr;
+    }
+    
+    .dress11_right
+    {
+        margin-top: 30px;
+        width: 300px;
+    }
+
+    .chn
+    {
+        margin-left: 0rem;
+    }
+    
+    .dress11_h4
+    {
+        margin-top: -10px;
+        width: 200px;
+    }
+    
+    .category_dress_h3
+    {
+        width: 280px;
+        font-size: 19px;
+    }
+    
+    .color_div1
+    {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .color_div2
+    {
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;    
+    }
+    
+    body
+    {
+        width: 320px;
+    }
+    .btn-grad 
+      {
+        margin: 10px;
+        padding: 12px 35px;
+    
+      }
+    
+    .color_div
+    {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        width: 200px;
+    }
+    
+    .hide
+    {
+        display: none;
+    }
+    
+    .quantity_div
+    {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    
+    .size
+    {
+        font-size: 24px;
+    }
+    
+    .quantity_left
+    {
+        cursor: pointer;
+    }
+    
+    .quantity_right
+    {
+       margin-left: -550px;
+       cursor: pointer;
+       width: 200px;
+    }
+    
+    .quantity_btw
+    {
+        margin-top: 2px;
+        font-weight: bolder;
+        margin-left: 14px;
+    }
+
+    .count
+    {
+        margin-top: -1px;
+    }
+    
+    .but1
+    {
+        margin-left: -10px;
+    }
+    
+    .ww
+    {
+        width: 320px;
+        margin-left: -19px;
+    }
+    
+    
+    .product
+    {
+        
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bold;
+        font-size: 13px;
+    }
+    
+    .accordion-body
+    {
+        text-decoration: none;
+    }
+    
+    .probtn
+    {
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bolder;
+        font-size: 15px;
+    }
+    
+    
+    .color3_div1
+    {
+        background-color:  #382C2C;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color3_div2
+    {
+        background-color: #D79E69;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color4_div1
+    {
+        background-color:  #9c0505;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color4_div2
+    {
+        background-color: #213604;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color2_div1
+    {
+        background-color:  rgb(4, 20, 70);
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color2_div2
+    {
+        background-color: #264445;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        display: none;
+    }
+    
+    
+    .color5_div1
+    {
+        background-color:  #232323;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color5_div2
+    {
+        background-color: #007ba7;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color6_div1
+    {
+        background-color:  #be0032
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color6_div2
+    {
+        background-color: #F0CA28;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    
+    
+    .color7_div1
+    {
+        background-color:  #171717
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color7_div2
+    {
+        background-color: #FFFDD0;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color8_div1
+    {
+        background-color:  #171717
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color8_div2
+    {
+        background-color: #05274A;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color9_div1
+    {
+        background-color:  	#8B4513;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color9_div2
+    {
+        background-color: #fe9995;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color10_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color10_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color11_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color11_div2
+    {
+        background-color: #05274A;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color12_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color12_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color13_div1
+    {
+        background-color:  	#05274A;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color13_div2
+    {
+        background-color: rgb(133, 32, 32);
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color14_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color14_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color15_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color15_div2
+    {
+        background-color: #6F4E37;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color16_div1
+    {
+        background-color:  	 #847640;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color16_div2
+    {
+        background-color:  #171717;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color17_div1
+    {
+        background-color:  	 #2e4070;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color17_div2
+    {
+        background-color:  #486bc7;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color18_div1
+    {
+        background-color: #171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color19_div1
+    {
+        background-color: #171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    
+    .color19_div2
+    {
+        background-color: #007ba7;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+        margin-left: 0px;
+    
+    }
+
+
+    
+.color20_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color20_div2
+{
+    background-color: rgb(206, 206, 110);
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+
+}
+
+
+
+
+.color21_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color21_div2
+{
+    background-color: antiquewhite;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+.color22_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color22_div2
+{
+    background-color: #8B4513
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+}
+
+
+.color23_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color23_div2
+{
+    background-color: #bc987e
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color24_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color24_div2
+{
+    background-color: gray
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color25_div1
+{
+    background-color:#87CEEB;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color25_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color26_div1
+{
+    background-color:#79a5b6;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color26_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+.color27_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color27_div2
+{
+    background-color:#171717
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+    
+
+    body
+    {
+        width: 320px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    footer
+    {
+        height: 1200px;
+    }
+    
+    .footer_container
+    {
+        grid-template-columns: 1fr;
+        padding-top: 70px;
+        text-align: center;
+    }
+    
+    .footer2_h2
+    {
+        font-size: 19px;
+    }
+    
+    .footer1 li a
+    {
+        font-size: 13px;
+        color: azure;
+        font-family: 'Tenor Sans', sans-serif;
+    
+    }
+    
+    .footer2
+    {
+        margin-bottom: 70px;
+        padding-top: 70px;
+    }
+    .phimg
+    {
+        margin-top: 0px;
+        margin-bottom: 15px;
+        color: white;
+
+    }
+    
+    .emimg
+    {
+        margin-bottom: 15px;
+        color: white;
+
+    }
+    
+    .hmimg
+    {
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .footer2_h41
+    {
+        font-size: 13px;
+        color: azure;
+        margin-top: 0px;
+
+    }
+    
+    .footer3_h42
+    {
+        font-size: 13px;
+        color: azure;
+    }
+    .footer3_h43
+    {
+        font-size: 13px;
+        margin-top: 0px;
+        color: azure;
+    }
+    
+    .footer3_h44
+    {
+        font-size: 13px;
+        margin-top: 0px;
+        margin-right: 0rem;
+        color: azure;
+    }
+    
+    .footer3
+    {
+        width: auto;
+    }
+    .footer3p
+    {
+        font-size: 13px;
+        margin-right: 0rem;
+
+    }
+    .ic
+    {
+      margin-left: 0px;  
+    }
+    
+    .subs input
+    {
+        width: 270px;
+    }
+    
+    .subs
+    {
+        margin-left: 0.88rem;
+    }
+    
+    .fb
+    {
+        color: white;
+        font-size: 20px;
+    }
+    
+    .you
+    {
+        color: red;
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    
+    .int
+    {
+        font-size: 20px;
+        margin-left: 10px;
+        color: white;
+    }
+    
+    .tw
+    {
+        color: #1DA1F2;
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    
+    
+    .footer3 a
+    {
+        text-decoration: none;
+    }
+    
+    .btn3
+    {
+        margin-left: 3.7rem;
+        margin-top: 15px;
+        margin-bottom: 30px;
+        font-size: 14px;
+    }
+    
+    .hu
+    {
+        margin-left: -2rem;
+    }
+    .end_div
+    {
+        height: 70px;
+    }
+    
+    .end
+    {
+        padding-top: 15px;
+        font-family: 'Lexend Zetta', sans-serif;
+        font-size: 16px;
+    }
+
+
+}
+
+
+
+
+@media (width:384px) {
+    #section_dresses1
+    {
+        height: 2200px;
+    }
+    .sec_dress1_container
+    {
+        padding-top: 70px;
+    }
+    
+    .dress_h2
+    {
+        font-size: 21px;
+    }
+    
+    .dress_p
+    {
+        font-size: 14px;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    
+    .category_dress
+    {
+        grid-template-columns: 1fr;
+        gap: 4rem;
+        padding-top: 60px;
+    }
+    
+    .category_dress_h5
+    {
+        margin-left: 0.3rem;
+    
+    }
+    
+    .category_dress_h6
+    {
+        margin-left: 0.3rem;
+    }
+    
+    .dress1
+    {
+        cursor: pointer;
+        margin-left: 0.3rem;
+        width: 350px;
+    }
+    
+    .dress3
+    {
+        cursor: pointer;
+        margin-left: 0.3rem;
+        width: 350px;
+
+    }
+    
+    .dress5
+    {
+        cursor: pointer;
+        margin-left: 0.3rem;
+        width: 350px;
+
+    }
+    
+    article .order
+    {
+        margin-left: 0.3rem;
+    }
+    
+    #dress11
+    {
+        height: 1350px;
+    }
+    
+    article .order:hover
+    {
+        transition: ease 1.3s;
+        color: white;
+        border: 2px solid #171717;
+        font-weight: bolder;
+        background-color: #171717;
+    }
+    
+    
+    .d11
+    {
+        width: 360px;
+        height: 450px;
+        margin-top: 70px;
+    }
+    
+    .dress11_container
+    {
+        grid-template-columns: 1fr;
+    }
+    
+    .dress11_right
+    {
+        margin-top: 30px;
+        width: 350px;
+    }
+    
+    .dress11_h4
+    {
+        margin-top: 10px;
+        width: 200px;
+    }
+    
+    .category_dress_h3
+    {
+        width: 350px;
+    }
+    
+    .color_div1
+    {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .color_div2
+    {
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;    
+    }
+    
+    body
+    {
+        width: 384px;
+    }
+    .btn-grad 
+      {
+        margin: 10px;
+        padding: 12px 35px;
+    
+      }
+    
+    .color_div
+    {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        width: 200px;
+    }
+    
+    .hide
+    {
+        display: none;
+    }
+    
+    .quantity_div
+    {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    
+    .size
+    {
+        font-size: 26px;
+    }
+    
+    .quantity_left
+    {
+        cursor: pointer;
+    }
+    
+    .quantity_right
+    {
+       margin-left: -550px;
+       cursor: pointer;
+       width: 300px;
+    }
+    
+    .quantity_btw
+    {
+        margin-top: 2px;
+        font-weight: bolder;
+        margin-left: 14px;
+    }
+    
+    
+    
+    .ww
+    {
+        width: 380px;
+        margin-left: -19px;
+    }
+    .chn
+    {
+        margin-left: 0rem;
+    }
+    
+    .but1
+    {
+        margin-left: 20.5px;
+    }
+    
+    
+    
+    .chat
+    {
+        font-family: 'Tenor Sans', sans-serif;
+        font-size: 1rem;
+        color: white;   
+        background-color: #171717;
+        margin-right: 300px;
+    }
+    
+    .chat:hover
+    {
+        background-color: #171717;
+    }
+    
+    
+    .product
+    {
+        
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    
+    .accordion-body
+    {
+        text-decoration: none;
+    }
+    
+    .probtn
+    {
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bolder;
+    }
+    
+    
+    .color3_div1
+    {
+        background-color:  #382C2C;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color3_div2
+    {
+        background-color: #D79E69;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color4_div1
+    {
+        background-color:  #9c0505;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color4_div2
+    {
+        background-color: #213604;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color2_div1
+    {
+        background-color:  rgb(4, 20, 70);
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color2_div2
+    {
+        background-color: #264445;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        display: none;
+    }
+    
+    
+    .color5_div1
+    {
+        background-color:  #232323;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color5_div2
+    {
+        background-color: #007ba7;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color6_div1
+    {
+        background-color:  #be0032
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color6_div2
+    {
+        background-color: #F0CA28;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    
+    
+    .color7_div1
+    {
+        background-color:  #171717
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color7_div2
+    {
+        background-color: #FFFDD0;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color8_div1
+    {
+        background-color:  #171717
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color8_div2
+    {
+        background-color: #05274A;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color9_div1
+    {
+        background-color:  	#8B4513;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color9_div2
+    {
+        background-color: #fe9995;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color10_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color10_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color11_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color11_div2
+    {
+        background-color: #05274A;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color12_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color12_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color13_div1
+    {
+        background-color:  	#05274A;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color13_div2
+    {
+        background-color: rgb(133, 32, 32);
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color14_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color14_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color15_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color15_div2
+    {
+        background-color: #6F4E37;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color16_div1
+    {
+        background-color:  	 #847640;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color16_div2
+    {
+        background-color:  #171717;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color17_div1
+    {
+        background-color:  	 #2e4070;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color17_div2
+    {
+        background-color:  #486bc7;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color18_div1
+    {
+        background-color: #171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color19_div1
+    {
+        background-color: #171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    
+    .color19_div2
+    {
+        background-color: #007ba7;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+        margin-left: 0px;
+    
+    }
+
+    
+.color20_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color20_div2
+{
+    background-color: rgb(206, 206, 110);
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+
+}
+
+
+
+
+.color21_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color21_div2
+{
+    background-color: antiquewhite;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+.color22_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color22_div2
+{
+    background-color: #8B4513
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+}
+
+
+.color23_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color23_div2
+{
+    background-color: #bc987e
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color24_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color24_div2
+{
+    background-color: gray
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color25_div1
+{
+    background-color:#87CEEB;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color25_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color26_div1
+{
+    background-color:#79a5b6;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color26_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+.color27_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color27_div2
+{
+    background-color:#171717
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    footer
+    {
+        height: 1300px;
+    }
+    
+    .footer_container
+    {
+        grid-template-columns: 1fr;
+        padding-top: 70px;
+        text-align: center;
+    }
+    
+    .footer2_h2
+    {
+        font-size: 24px;
+    }
+    
+    .footer1 li a
+    {
+        font-size: 14px;
+        color: azure;
+        font-family: 'Tenor Sans', sans-serif;
+    
+    }
+    
+    .footer2
+    {
+        margin-bottom: 70px;
+        padding-top: 70px;
+    }
+    .phimg
+    {
+        margin-top: 0px;
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .emimg
+    {
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .hmimg
+    {
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .footer2_h41
+    {
+        font-size: 14px;
+        color: azure;
+        margin-left:0px;
+        margin-top: 0px;
+    }
+    
+    .footer3_h42
+    {
+        font-size: 14px;
+        color: azure;
+        margin-left: 0px;
+    }
+    .footer3_h43
+    {
+        font-size: 14px;
+        margin-top: 0px;
+        color: azure;
+        margin-left: 0px;
+    }
+    
+    .footer3_h44
+    {
+        font-size: 14px;
+        margin-top: 0px;
+        margin-right: 0rem;
+        color: azure;
+        margin-left: 0px;
+    }
+    
+    .footer3
+    {
+        width: auto;
+    }
+    .footer3p
+    {
+        font-size: 14px;
+        margin-right: 0rem;
+    }
+    .ic
+    {
+      margin-left: 0px;  
+    }
+    
+    .subs input
+    {
+        width: 300px;
+    }
+    
+    .subs
+    {
+        margin-left: 2rem;
+    }
+    
+    .fb
+    {
+        color: white;
+        font-size: 20px;
+    }
+    
+    .you
+    {
+        color: red;
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    
+    .int
+    {
+        font-size: 20px;
+        margin-left: 10px;
+        color: white;
+    }
+    
+    .tw
+    {
+        color: #1DA1F2;
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    
+    
+    .footer3 a
+    {
+        text-decoration: none;
+    }
+    
+    .btn3
+    {
+        margin-left: 4.2rem;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    
+    .hu
+    {
+        margin-left: -3.5rem;
+    }
+    .end_div
+    {
+        height: 80px;
+    }
+    
+    .end
+    {
+        padding-top: 15px;
+        font-family: 'Lexend Zetta', sans-serif;
+        font-size: 18px;
+    }
+    }
+    
+    
+
+
+    
+
+@media (max-width:393px) and (min-width:387px) {
+    #section_dresses1
+    {
+        height: 2250px;
+    }
+    .sec_dress1_container
+    {
+        padding-top: 70px;
+    }
+    
+    .dress_h2
+    {
+        font-size: 21px;
+    }
+    
+    .dress_p
+    {
+        font-size: 14px;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    
+    .category_dress
+    {
+        grid-template-columns: 1fr;
+        gap: 4rem;
+        padding-top: 60px;
+    }
+    
+    .category_dress_h5
+    {
+        margin-left: 0.3rem;
+    
+    }
+    
+    .category_dress_h6
+    {
+        margin-left: 0.3rem;
+    }
+    
+    .dress1
+    {
+        cursor: pointer;
+        margin-left: 0.3rem;
+        width: 360px;
+    }
+    
+    .dress3
+    {
+        cursor: pointer;
+        margin-left: 0.3rem;
+        width: 360px;
+
+    }
+    
+    .dress5
+    {
+        cursor: pointer;
+        margin-left: 0.3rem;
+        width: 360px;
+
+    }
+    
+    article .order
+    {
+        margin-left: 0.3rem;
+    }
+    
+    #dress11
+    {
+        height: 1370px;
+    }
+    
+    article .order:hover
+    {
+        transition: ease 1.3s;
+        color: white;
+        border: 2px solid #171717;
+        font-weight: bolder;
+        background-color: #171717;
+    }
+    
+    
+    .d11
+    {
+        width: 370px;
+        height: 450px;
+        margin-top: 70px;
+    }
+    
+    .dress11_container
+    {
+        grid-template-columns: 1fr;
+    }
+    
+    .dress11_right
+    {
+        margin-top: 30px;
+        width: 350px;
+    }
+    
+    .dress11_h4
+    {
+        margin-top: 10px;
+        width: 200px;
+    }
+    
+    .category_dress_h3
+    {
+        width: 350px;
+    }
+    
+    .color_div1
+    {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .color_div2
+    {
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;    
+    }
+    
+    body
+    {
+        width: 393px;
+    }
+    .btn-grad 
+      {
+        margin: 10px;
+        padding: 12px 35px;
+    
+      }
+    
+    .color_div
+    {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        width: 200px;
+    }
+    
+    .hide
+    {
+        display: none;
+    }
+    
+    .quantity_div
+    {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    
+    .size
+    {
+        font-size: 26px;
+    }
+    
+    .quantity_left
+    {
+        cursor: pointer;
+    }
+    
+    .quantity_right
+    {
+       margin-left: -550px;
+       cursor: pointer;
+       width: 300px;
+    }
+    
+    .quantity_btw
+    {
+        margin-top: 2px;
+        font-weight: bolder;
+        margin-left: 14px;
+    }
+    
+    
+    
+    .ww
+    {
+        width: 380px;
+        margin-left: -19px;
+    }
+    .chn
+    {
+        margin-left: 0rem;
+    }
+    
+    .but1
+    {
+        margin-left: 20.5px;
+    }
+    
+    
+    
+    .chat
+    {
+        font-family: 'Tenor Sans', sans-serif;
+        font-size: 1rem;
+        color: white;   
+        background-color: #171717;
+        margin-right: 300px;
+    }
+    
+    .chat:hover
+    {
+        background-color: #171717;
+    }
+    
+    
+    .product
+    {
+        
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    
+    .accordion-body
+    {
+        text-decoration: none;
+    }
+    
+    .probtn
+    {
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bolder;
+    }
+    
+    
+    .color3_div1
+    {
+        background-color:  #382C2C;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color3_div2
+    {
+        background-color: #D79E69;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color4_div1
+    {
+        background-color:  #9c0505;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color4_div2
+    {
+        background-color: #213604;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color2_div1
+    {
+        background-color:  rgb(4, 20, 70);
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color2_div2
+    {
+        background-color: #264445;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        display: none;
+    }
+    
+    
+    .color5_div1
+    {
+        background-color:  #232323;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color5_div2
+    {
+        background-color: #007ba7;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color6_div1
+    {
+        background-color:  #be0032
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color6_div2
+    {
+        background-color: #F0CA28;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    
+    
+    .color7_div1
+    {
+        background-color:  #171717
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color7_div2
+    {
+        background-color: #FFFDD0;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color8_div1
+    {
+        background-color:  #171717
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color8_div2
+    {
+        background-color: #05274A;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color9_div1
+    {
+        background-color:  	#8B4513;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color9_div2
+    {
+        background-color: #fe9995;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color10_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color10_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color11_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color11_div2
+    {
+        background-color: #05274A;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color12_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color12_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color13_div1
+    {
+        background-color:  	#05274A;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color13_div2
+    {
+        background-color: rgb(133, 32, 32);
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color14_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color14_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color15_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color15_div2
+    {
+        background-color: #6F4E37;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color16_div1
+    {
+        background-color:  	 #847640;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color16_div2
+    {
+        background-color:  #171717;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color17_div1
+    {
+        background-color:  	 #2e4070;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color17_div2
+    {
+        background-color:  #486bc7;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color18_div1
+    {
+        background-color: #171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color19_div1
+    {
+        background-color: #171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    
+    .color19_div2
+    {
+        background-color: #007ba7;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+        margin-left: 0px;
+    
+    }
+
+
+    
+.color20_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color20_div2
+{
+    background-color: rgb(206, 206, 110);
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+
+}
+
+
+
+
+.color21_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color21_div2
+{
+    background-color: antiquewhite;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+.color22_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color22_div2
+{
+    background-color: #8B4513
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+}
+
+
+.color23_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color23_div2
+{
+    background-color: #bc987e
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color24_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color24_div2
+{
+    background-color: gray
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color25_div1
+{
+    background-color:#87CEEB;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color25_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color26_div1
+{
+    background-color:#79a5b6;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color26_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+.color27_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color27_div2
+{
+    background-color:#171717
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    footer
+    {
+        height: 1300px;
+    }
+    
+    .footer_container
+    {
+        grid-template-columns: 1fr;
+        padding-top: 70px;
+        text-align: center;
+    }
+    
+    .footer2_h2
+    {
+        font-size: 24px;
+    }
+    
+    .footer1 li a
+    {
+        font-size: 14px;
+        color: azure;
+        font-family: 'Tenor Sans', sans-serif;
+    
+    }
+    
+    .footer2
+    {
+        margin-bottom: 70px;
+        padding-top: 70px;
+    }
+    .phimg
+    {
+        margin-top: 0px;
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .emimg
+    {
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .hmimg
+    {
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .footer2_h41
+    {
+        font-size: 14px;
+        color: azure;
+        margin-left:0px;
+        margin-top: 0px;
+    }
+    
+    .footer3_h42
+    {
+        font-size: 14px;
+        color: azure;
+        margin-left: 0px;
+    }
+    .footer3_h43
+    {
+        font-size: 14px;
+        margin-top: 0px;
+        color: azure;
+        margin-left: 0px;
+    }
+    
+    .footer3_h44
+    {
+        font-size: 14px;
+        margin-top: 0px;
+        margin-right: 0rem;
+        color: azure;
+        margin-left: 0px;
+    }
+    
+    .footer3
+    {
+        width: auto;
+    }
+    .footer3p
+    {
+        font-size: 14px;
+        margin-right: 0rem;
+    }
+    .ic
+    {
+      margin-left: 0px;  
+    }
+    
+    .subs input
+    {
+        width: 300px;
+    }
+    
+    .subs
+    {
+        margin-left: 2.1rem;
+    }
+    
+    .fb
+    {
+        color: white;
+        font-size: 20px;
+    }
+    
+    .you
+    {
+        color: red;
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    
+    .int
+    {
+        font-size: 20px;
+        margin-left: 10px;
+        color: white;
+    }
+    
+    .tw
+    {
+        color: #1DA1F2;
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    
+    
+    .footer3 a
+    {
+        text-decoration: none;
+    }
+    
+    .btn3
+    {
+        margin-left: 4.2rem;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    
+    .hu
+    {
+        margin-left: -3.7rem;
+    }
+    .end_div
+    {
+        height: 80px;
+    }
+    
+    .end
+    {
+        padding-top: 15px;
+        font-family: 'Lexend Zetta', sans-serif;
+        font-size: 18px;
+    }
+    }
+
+
+    @media (width:390px) {
+        body
+        {
+            width: 390px;
+        }
+
+        .dress1
+        {
+            width: 356px;
+        }
+
+        
+        .dress3
+        {
+            width: 356px;
+        }
+
+        
+        .dress5
+        {
+            width: 356px;
+        }
+
+        .d11
+        {
+            width: 365px;
+        }
+
+        
+    }
+
+
+    
+    
+@media (max-width:414px) and (min-width:412px) {
+    #section_dresses1
+    {
+        height: 2260px;
+    }
+    .sec_dress1_container
+    {
+        padding-top: 70px;
+    }
+    
+    .dress_h2
+    {
+        font-size: 22px;
+    }
+
+    body
+    {
+        width: 414px;
+    }
+    
+    .dress_p
+    {
+        font-size: 15px;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    
+    .category_dress
+    {
+        grid-template-columns: 1fr;
+        gap: 4rem;
+        padding-top: 60px;
+    }
+    
+    .category_dress_h5
+    {
+        margin-left: 0.3rem;
+        font-size: 21px;
+    
+    }
+    
+    .category_dress_h6
+    {
+        margin-left: 0.3rem;
+        font-size: 17px;
+    }
+    
+    .dress1
+    {
+        cursor: pointer;
+        margin-left: 0.3rem;
+        width: 380px;
+    }
+    
+    .dress3
+    {
+        cursor: pointer;
+        margin-left: 0.3rem;
+        width: 380px;
+
+    }
+    
+    .dress5
+    {
+        cursor: pointer;
+        margin-left: 0.3rem;
+        width: 380px;
+
+    }
+    
+    article .order
+    {
+        margin-left: 0.3rem;
+    }
+    
+    #dress11
+    {
+        height: 1370px;
+    }
+    
+    article .order:hover
+    {
+        transition: ease 1.3s;
+        color: white;
+        border: 2px solid #171717;
+        font-weight: bolder;
+        background-color: #171717;
+    }
+    
+    
+    .d11
+    {
+        width: 389px;
+        height: 450px;
+        margin-top: 70px;
+    }
+    
+    .dress11_container
+    {
+        grid-template-columns: 1fr;
+    }
+    
+    .dress11_right
+    {
+        margin-top: 30px;
+        width: 350px;
+    }
+    
+    .dress11_h4
+    {
+        margin-top: 10px;
+        width: 200px;
+        font-size: 22px;
+    }
+    
+    .category_dress_h3
+    {
+        width: 350px;
+        font-size: 24px;
+    }
+    
+    .color_div1
+    {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .color_div2
+    {
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;    
+    }
+    
+    body
+    {
+        width: px;
+    }
+    .btn-grad 
+      {
+        margin: 10px;
+        padding: 12px 35px;
+    
+      }
+    
+    .color_div
+    {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        width: 200px;
+    }
+    
+    .hide
+    {
+        display: none;
+    }
+    
+    .quantity_div
+    {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        
+    }
+    
+    .size
+    {
+        font-size: 26px;
+    }
+    
+    .quantity_left
+    {
+        cursor: pointer;
+    }
+    
+    .quantity_right
+    {
+       margin-left: -550px;
+       cursor: pointer;
+       width: 300px;
+    }
+    
+    .quantity_btw
+    {
+        margin-top: 2px;
+        font-weight: bolder;
+        margin-left: 14px;
+    }
+    
+    
+    
+    .ww
+    {
+        width: 410px;
+        margin-left: -19px;
+    }
+    .chn
+    {
+        margin-left: 0rem;
+    }
+    
+    .but1
+    {
+        margin-left: 20.5px;
+    }
+    
+    
+    
+    .chat
+    {
+        font-family: 'Tenor Sans', sans-serif;
+        font-size: 1rem;
+        color: white;   
+        background-color: #171717;
+        margin-right: 300px;
+    }
+    
+    .chat:hover
+    {
+        background-color: #171717;
+    }
+    
+    
+    .product
+    {
+        
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    
+    .accordion-body
+    {
+        text-decoration: none;
+    }
+    
+    .probtn
+    {
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bolder;
+    }
+    
+    
+    .color3_div1
+    {
+        background-color:  #382C2C;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color3_div2
+    {
+        background-color: #D79E69;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color4_div1
+    {
+        background-color:  #9c0505;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color4_div2
+    {
+        background-color: #213604;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color2_div1
+    {
+        background-color:  rgb(4, 20, 70);
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color2_div2
+    {
+        background-color: #264445;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        display: none;
+    }
+    
+    
+    .color5_div1
+    {
+        background-color:  #232323;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color5_div2
+    {
+        background-color: #007ba7;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color6_div1
+    {
+        background-color:  #be0032
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color6_div2
+    {
+        background-color: #F0CA28;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    
+    
+    .color7_div1
+    {
+        background-color:  #171717
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color7_div2
+    {
+        background-color: #FFFDD0;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color8_div1
+    {
+        background-color:  #171717
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color8_div2
+    {
+        background-color: #05274A;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color9_div1
+    {
+        background-color:  	#8B4513;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color9_div2
+    {
+        background-color: #fe9995;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color10_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color10_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color11_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color11_div2
+    {
+        background-color: #05274A;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color12_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color12_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color13_div1
+    {
+        background-color:  	#05274A;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color13_div2
+    {
+        background-color: rgb(133, 32, 32);
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color14_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color14_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color15_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color15_div2
+    {
+        background-color: #6F4E37;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color16_div1
+    {
+        background-color:  	 #847640;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color16_div2
+    {
+        background-color:  #171717;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color17_div1
+    {
+        background-color:  	 #2e4070;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color17_div2
+    {
+        background-color:  #486bc7;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color18_div1
+    {
+        background-color: #171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color19_div1
+    {
+        background-color: #171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    
+    .color19_div2
+    {
+        background-color: #007ba7;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+        margin-left: 0px;
+    
+    }
+
+
+    
+.color20_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color20_div2
+{
+    background-color: rgb(206, 206, 110);
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+
+}
+
+
+
+
+.color21_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color21_div2
+{
+    background-color: antiquewhite;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+.color22_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color22_div2
+{
+    background-color: #8B4513
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+}
+
+
+.color23_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color23_div2
+{
+    background-color: #bc987e
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color24_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color24_div2
+{
+    background-color: gray
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color25_div1
+{
+    background-color:#87CEEB;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color25_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color26_div1
+{
+    background-color:#79a5b6;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color26_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+.color27_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color27_div2
+{
+    background-color:#171717
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    footer
+    {
+        height: 1300px;
+    }
+    
+    .footer_container
+    {
+        grid-template-columns: 1fr;
+        padding-top: 70px;
+        text-align: center;
+    }
+    
+    .footer2_h2
+    {
+        font-size: 24px;
+    }
+    
+    .footer1 li a
+    {
+        font-size: 14px;
+        color: azure;
+        font-family: 'Tenor Sans', sans-serif;
+    
+    }
+    
+    .footer2
+    {
+        margin-bottom: 70px;
+        padding-top: 70px;
+    }
+    .phimg
+    {
+        margin-top: 0px;
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .emimg
+    {
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .hmimg
+    {
+        margin-bottom: 15px;
+        color: white;
+    }
+    
+    .footer2_h41
+    {
+        font-size: 14px;
+        color: azure;
+        margin-left:0px;
+        margin-top: 0px;
+    }
+    
+    .footer3_h42
+    {
+        font-size: 14px;
+        color: azure;
+        margin-left: 0px;
+    }
+    .footer3_h43
+    {
+        font-size: 14px;
+        margin-top: 0px;
+        color: azure;
+        margin-left: 0px;
+    }
+    
+    .footer3_h44
+    {
+        font-size: 14px;
+        margin-top: 0px;
+        margin-right: 0rem;
+        color: azure;
+        margin-left: 0px;
+    }
+    
+    .footer3
+    {
+        width: auto;
+    }
+    .footer3p
+    {
+        font-size: 14px;
+        margin-right: 0rem;
+    }
+    .ic
+    {
+      margin-left: 0px;  
+    }
+    
+    .subs input
+    {
+        width: 320px;
+    }
+    
+    .subs
+    {
+        margin-left: 2.1rem;
+    }
+    
+    .fb
+    {
+        color: white;
+        font-size: 20px;
+    }
+    
+    .you
+    {
+        color: red;
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    
+    .int
+    {
+        font-size: 20px;
+        margin-left: 10px;
+        color: white;
+    }
+    
+    .tw
+    {
+        color: #1DA1F2;
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    
+    
+    .footer3 a
+    {
+        text-decoration: none;
+    }
+    
+    .btn3
+    {
+        margin-left: 4.7rem;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    
+    .hu
+    {
+        margin-left: -4.3rem;
+    }
+    .end_div
+    {
+        height: 80px;
+    }
+    
+    .end
+    {
+        padding-top: 15px;
+        font-family: 'Lexend Zetta', sans-serif;
+        font-size: 18px;
+    }
+    }
+
+    
+    @media (width:412px) {
+        body
+        {
+            width: 412px;
+        }
+
+        .dress1
+        {
+            width: 379px;
+        }
+
+        
+        .dress3
+        {
+            width: 379px;
+        }
+
+        
+        .dress5
+        {
+            width: 379px;
+        }
+
+        .d11
+        {
+            width: 388px;
+        }
+
+        
+    }
+
+
+       
+    
+@media (max-width:425px) and (min-width:415px) {
+    #section_dresses1
+    {
+        height: 2460px;
+    }
+    .sec_dress1_container
+    {
+        padding-top: 70px;
+    }
+    
+    .dress_h2
+    {
+        font-size: 27px;
+    }
+
+    body
+    {
+        width: 425px;
+    }
+    
+    .dress_p
+    {
+        font-size: 17px;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    
+    .category_dress
+    {
+        grid-template-columns: 1fr;
+        gap: 4rem;
+        padding-top: 60px;
+    }
+    
+    .category_dress_h5
+    {
+        margin-left: 0.3rem;
+        font-size: 22px;
+    
+    }
+    
+    .category_dress_h6
+    {
+        margin-left: 0.3rem;
+        font-size: 18px;
+    }
+    
+    .dress1
+    {
+        cursor: pointer;
+        margin-left: 0.3rem;
+        width: 390px;
+    }
+    
+    .dress3
+    {
+        cursor: pointer;
+        margin-left: 0.3rem;
+        width: 390px;
+
+    }
+    
+    .dress5
+    {
+        cursor: pointer;
+        margin-left: 0.3rem;
+        width: 390px;
+
+    }
+    
+    article .order
+    {
+        margin-left: 0.3rem;
+        font-size: 19px;
+    }
+    
+    #dress11
+    {
+        height: 1370px;
+    }
+    
+    article .order:hover
+    {
+        transition: ease 1.3s;
+        color: white;
+        border: 2px solid #171717;
+        font-weight: bolder;
+        background-color: #171717;
+    }
+    
+    
+    .d11
+    {
+        width: 401px;
+        height: 450px;
+        margin-top: 70px;
+    }
+    
+    .dress11_container
+    {
+        grid-template-columns: 1fr;
+    }
+    
+    .dress11_right
+    {
+        margin-top: 30px;
+        width: 350px;
+    }
+    
+    .dress11_h4
+    {
+        margin-top: 10px;
+        width: 200px;
+        font-size: 24px;
+    }
+    
+    .category_dress_h3
+    {
+        width: 350px;
+        font-size: 26px;
+    }
+    
+    .color_div1
+    {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .color_div2
+    {
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;    
+    }
+    
+    body
+    {
+        width: px;
+    }
+    .btn-grad 
+      {
+        margin: 10px;
+        padding: 12px 35px;
+    
+      }
+    
+    .color_div
+    {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        width: 200px;
+    }
+    
+    .hide
+    {
+        display: none;
+    }
+    
+    .quantity_div
+    {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        
+    }
+    
+    .size
+    {
+        font-size: 26px;
+    }
+    
+    .quantity_left
+    {
+        cursor: pointer;
+    }
+    
+    .quantity_right
+    {
+       margin-left: -550px;
+       cursor: pointer;
+       width: 300px;
+    }
+    
+    .quantity_btw
+    {
+        margin-top: 2px;
+        font-weight: bolder;
+        margin-left: 14px;
+    }
+    
+    
+    
+    .ww
+    {
+        width: 424px;
+        margin-left: -19px;
+    }
+    .chn
+    {
+        margin-left: 0rem;
+    }
+    
+    .but1
+    {
+        margin-left: 12.5px;
+    }
+    
+    
+    
+    .chat
+    {
+        font-family: 'Tenor Sans', sans-serif;
+        font-size: 1rem;
+        color: white;   
+        background-color: #171717;
+        margin-right: 300px;
+    }
+    
+    .chat:hover
+    {
+        background-color: #171717;
+    }
+    
+    
+    .product
+    {
+        
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bold;
+        font-size: 15px;
+    }
+    
+    .accordion-body
+    {
+        text-decoration: none;
+    }
+    
+    .probtn
+    {
+        font-family: 'Tenor Sans', sans-serif;
+        color: #171717;
+        font-weight: bolder;
+        font-size: 18px;
+    }
+    
+    
+    .color3_div1
+    {
+        background-color:  #382C2C;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color3_div2
+    {
+        background-color: #D79E69;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color4_div1
+    {
+        background-color:  #9c0505;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color4_div2
+    {
+        background-color: #213604;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color2_div1
+    {
+        background-color:  rgb(4, 20, 70);
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color2_div2
+    {
+        background-color: #264445;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        display: none;
+    }
+    
+    
+    .color5_div1
+    {
+        background-color:  #232323;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color5_div2
+    {
+        background-color: #007ba7;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color6_div1
+    {
+        background-color:  #be0032
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color6_div2
+    {
+        background-color: #F0CA28;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    
+    
+    .color7_div1
+    {
+        background-color:  #171717
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color7_div2
+    {
+        background-color: #FFFDD0;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color8_div1
+    {
+        background-color:  #171717
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color8_div2
+    {
+        background-color: #05274A;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    
+    .color9_div1
+    {
+        background-color:  	#8B4513;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color9_div2
+    {
+        background-color: #fe9995;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color10_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color10_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color11_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color11_div2
+    {
+        background-color: #05274A;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color12_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color12_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color13_div1
+    {
+        background-color:  	#05274A;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color13_div2
+    {
+        background-color: rgb(133, 32, 32);
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color14_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color14_div2
+    {
+        background-color: grey;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color15_div1
+    {
+        background-color:  	#171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color15_div2
+    {
+        background-color: #6F4E37;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color16_div1
+    {
+        background-color:  	 #847640;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color16_div2
+    {
+        background-color:  #171717;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    
+    .color17_div1
+    {
+        background-color:  	 #2e4070;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    .color17_div2
+    {
+        background-color:  #486bc7;
+        width: 60px;
+        height: 60px;
+        margin-left: 0px;
+        cursor: pointer;
+    }
+    
+    .color18_div1
+    {
+        background-color: #171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    
+    
+    .color19_div1
+    {
+        background-color: #171717;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+    }
+    
+    
+    .color19_div2
+    {
+        background-color: #007ba7;
+        ;
+        width: 60px;
+        height: 60px;
+        cursor: pointer;
+        margin-left: 0px;
+    
+    }
+
+
+    
+.color20_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color20_div2
+{
+    background-color: rgb(206, 206, 110);
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+
+}
+
+
+
+
+.color21_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color21_div2
+{
+    background-color: antiquewhite;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+.color22_div1
+{
+    background-color:#171717;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color22_div2
+{
+    background-color: #8B4513
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+}
+
+
+.color23_div1
+{
+    background-color:grey;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color23_div2
+{
+    background-color: #bc987e
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color24_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color24_div2
+{
+    background-color: gray
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color25_div1
+{
+    background-color:#87CEEB;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color25_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+
+.color26_div1
+{
+    background-color:#79a5b6;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color26_div2
+{
+    background-color: grey
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+
+
+
+.color27_div1
+{
+    background-color:#282C38;
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+.color27_div2
+{
+    background-color:#171717
+    ;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-left: 0px;
+    border: 1px solid black;
+
+}
+    
+    
+    
+
+footer
+{
+    height: 1270px;
+}
+
+.footer_container
+{
+    grid-template-columns: 1fr;
+    padding-top: 70px;
+    text-align: center;
+}
+
+.footer2_h2
+{
+    font-size: 24px;
+}
+
+.footer1 li a
+{
+    font-size: 16px;
+    color: azure;
+    font-family: 'Tenor Sans', sans-serif;
+
+}
+
+.footer2
+{
+    margin-bottom: 70px;
+    padding-top: 70px;
+}
+.phimg
+{
+    margin-top: 0px;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.emimg
+{
+    margin-bottom: 15px;
+    color: white;
+}
+
+.hmimg
+{
+    margin-bottom: 15px;
+    color: white;
+}
+
+.footer2_h41
+{
+    font-size: 16px;
+    color: azure;
+    margin-left:0px;
+    margin-top: 0px;
+}
+
+.footer3_h42
+{
+    font-size: 16px;
+    color: azure;
+    margin-left: 0px;
+}
+.footer3_h43
+{
+    font-size: 16px;
+    margin-top: 0px;
+    color: azure;
+    margin-left: 0px;
+}
+
+.footer3_h44
+{
+    font-size: 16px;
+    margin-top: 0px;
+    margin-right: 0rem;
+    color: azure;
+    margin-left: 0px;
+}
+
+.footer3
+{
+    width: auto;
+}
+.footer3p
+{
+    font-size: 16px;
+    margin-right: 0rem;
+}
+.ic
+{
+  margin-left: 0px;  
+}
+
+.subs input
+{
+    width: 350px;
+}
+
+.subs
+{
+    margin-left: 1.6rem !important;
+}
+
+.fb
+{
+    color: white;
+    font-size: 20px;
+}
+
+.you
+{
+    color: red;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.int
+{
+    font-size: 20px;
+    margin-left: 10px;
+    color: white;
+}
+
+.tw
+{
+    color: #1DA1F2;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+
+.footer3 a
+{
+    text-decoration: none;
+}
+
+.btn3
+{
+    margin-left: 5.5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 17px;
+}
+
+.hu
+{
+    margin-left: -3.7rem !important;
+}
+.end_div
+{
+    height: 80px;
+}
+
+.end
+{
+    padding-top: 15px;
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 18px;
+}
+    }
+
+
+    @media (max-width:1536px)  and (min-width:1441px)
+  {
+    
+.dress_h2
+{
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 35px;
+    color:#171717;
+    font-weight: bold;
+}
+
+.dress_p
+{
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 17px;
+    color: #171717;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    font-weight: bolder;
+}
+
+  }    
+
+
+  @media (max-width:1440px)  and (min-width:1281px)
+
+  {
+    div.container.sec_dress1_container
+    {
+        width: 1180px;
+    }
+
+    .dress1
+    {
+        width: 320px;
+        height: 400px;
+    }
+
+    
+    .dress3
+    {
+        width: 320px;
+        height: 400px;
+    }
+
+    
+    .dress5
+    {
+        width: 320px;
+        height: 400px;
+    }
+
+    .category_dress
+    {
+        gap: 6rem;
+    }
+
+    .dress_h2
+    {
+        font-size: 34px;
+    }
+
+    .dress_p
+    {
+        font-size: 17px;
+    }
+
+    div.container.dress11_container
+    {
+        width: 1180px;
+    }
+    .d11
+    {
+        width: 520px;
+        height: 630px;
+    }
+
+    .dress11_right
+    {
+        width: 650px;
+        margin-left: 2rem;
+    }
+
+    .probtn
+    {
+        width: 610px;
+    }
+    #dress11
+    {
+        height: 970px;
+    }
+  }
+
+  @media (width:1366px) {
+    .dress1
+    {
+        width: 300px;
+        height: 380px;
+    }
+
+    .dress3
+    {
+        width: 300px;
+        height: 380px;
+    }
+
+    .dress5
+    {
+        width: 300px;
+        height: 380px;
+    }
+  }
+
+
+  @media (max-width:1280px) and (min-width:1120px) {
+    div.container.sec_dress1_container
+    {
+        width: 1000px;
+    }
+
+    .dress1
+    {
+        width: 320px;
+        height: 380px;
+    }
+
+    
+    .dress3
+    {
+        width: 320px;
+        height: 380px;
+    }
+
+    
+    .dress5
+    {
+        width: 320px;
+        height: 380px;
+        margin-top: 5rem;
+    }
+
+    .category_dress
+    {
+        gap: 0rem;
+        grid-template-columns: 1fr 1fr;
+        margin-left: 8rem;
+    }
+
+    #section_dresses1
+    {
+        height: 1550px;
+    }
+
+    .dress_h2
+    {
+        font-size: 32px;
+    }
+
+    .dress_p
+    {
+        font-size: 14px;
+    }
+
+    div.container.dress11_container
+    {
+        width: 1000px;
+    }
+    .d11
+    {
+        width: 420px;
+        height: 530px;
+    }
+
+    .dress11_right
+    {
+        width: 650px;
+        margin-left: 2rem;
+    }
+
+    .probtn
+    {
+        width: 510px;
+    }
+    #dress11
+    {
+        height: 970px;
+    }
+  }
+
+
+
+    
